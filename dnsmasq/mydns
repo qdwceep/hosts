@@ -1,0 +1,5 @@
+#Google 
+address=/android-china.l.google.com/2404:6800:4005:800::200e
+address=/android.clients.google.com/2404:6800:4005:800::200e
+server=/google.com/2001:4860:4860::8888
+server=/gstatic.com/2001:4860:4860::8888
