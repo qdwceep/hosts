@@ -3,8 +3,9 @@ address=/android-china.l.google.com/2404:6800:4005:800::200e
 address=/android.clients.google.com/2404:6800:4005:800::200e
 server=/google.com/2001:4860:4860::8888
 server=/gstatic.com/2001:4860:4860::8888
-
-
+server=/googleapis.com/2001:4860:4860::8888
+server=/googleusercontent.com/2001:4860:4860::8888
+server=/googlevideo.com/2001:4860:4860::8888
 
 server=/t66y.com/2001:4860:4860::8888
 server=/baidu.com/119.29.29.29
