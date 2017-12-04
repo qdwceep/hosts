@@ -8,5 +8,6 @@ server=/gstatic.com/2001:4860:4860::8888
 
 server=/t66y.com/2001:4860:4860::8888
 server=/baidu.com/119.29.29.29
-
-server=/meituan.com/119.29.29.29
+server=/qq.com/119.29.29.29
+server=/zhihu.com/119.29.29.29
+server=/cnzz.com/119.29.29.29
